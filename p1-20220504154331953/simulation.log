@@ -1,0 +1,721 @@
+RUN	p1	p1	1651679011953	 	3.7.6
+USER	p1	START	1651679013893
+USER	p1	START	1651679013905
+REQUEST		request_0	1651679013923	1651679014357	OK	 
+REQUEST		request_0	1651679013923	1651679014360	OK	 
+USER	p1	START	1651679015083
+REQUEST		request_0	1651679015084	1651679015321	OK	 
+USER	p1	START	1651679015913
+USER	p1	START	1651679015943
+REQUEST		request_0	1651679015944	1651679016178	OK	 
+REQUEST		request_0	1651679015913	1651679016187	OK	 
+USER	p1	START	1651679016202
+REQUEST		request_0	1651679016203	1651679016453	OK	 
+USER	p1	START	1651679017002
+USER	p1	START	1651679017232
+REQUEST		request_0	1651679017003	1651679017303	OK	 
+REQUEST		request_0	1651679017232	1651679017500	OK	 
+USER	p1	START	1651679018075
+REQUEST		request_0	1651679018076	1651679018346	OK	 
+USER	p1	START	1651679019782
+USER	p1	START	1651679019903
+REQUEST		request_0	1651679019782	1651679019999	OK	 
+REQUEST		request_0	1651679019904	1651679020122	OK	 
+USER	p1	START	1651679020590
+REQUEST		request_0	1651679020591	1651679020808	OK	 
+USER	p1	START	1651679022233
+REQUEST		request_0	1651679022233	1651679022451	OK	 
+USER	p1	START	1651679022771
+USER	p1	START	1651679022864
+REQUEST		request_0	1651679022772	1651679022992	OK	 
+REQUEST		request_0	1651679022864	1651679023091	OK	 
+USER	p1	START	1651679023955
+REQUEST		request_0	1651679023955	1651679024176	OK	 
+USER	p1	START	1651679024214
+REQUEST		request_0	1651679024215	1651679024416	OK	 
+USER	p1	START	1651679026185
+USER	p1	START	1651679026339
+REQUEST		request_0	1651679026185	1651679026437	OK	 
+REQUEST		request_0	1651679026339	1651679026586	OK	 
+USER	p1	START	1651679026986
+REQUEST		request_0	1651679026986	1651679027187	OK	 
+USER	p1	START	1651679027527
+USER	p1	START	1651679027696
+USER	p1	START	1651679027712
+REQUEST		request_0	1651679027528	1651679027796	OK	 
+REQUEST		request_0	1651679027696	1651679027909	OK	 
+REQUEST		request_0	1651679027712	1651679027928	OK	 
+USER	p1	START	1651679029762
+REQUEST		request_0	1651679029763	1651679030004	OK	 
+USER	p1	START	1651679030180
+USER	p1	START	1651679030226
+USER	p1	START	1651679030301
+REQUEST		request_0	1651679030180	1651679030401	OK	 
+REQUEST		request_0	1651679030226	1651679030470	OK	 
+REQUEST		request_0	1651679030301	1651679030552	OK	 
+USER	p1	START	1651679030960
+USER	p1	START	1651679031023
+REQUEST		request_0	1651679030960	1651679031166	OK	 
+REQUEST		request_0	1651679031023	1651679031232	OK	 
+USER	p1	START	1651679031283
+REQUEST		request_0	1651679031283	1651679031490	OK	 
+USER	p1	START	1651679031647
+USER	p1	START	1651679031801
+REQUEST		request_0	1651679031648	1651679031867	OK	 
+USER	p1	START	1651679031877
+REQUEST		request_0	1651679031802	1651679032033	OK	 
+REQUEST		request_0	1651679031877	1651679032124	OK	 
+USER	p1	START	1651679033418
+REQUEST		request_0	1651679033418	1651679033618	OK	 
+USER	p1	START	1651679033863
+USER	p1	START	1651679033937
+REQUEST		request_0	1651679033863	1651679034073	OK	 
+REQUEST		request_0	1651679033937	1651679034133	OK	 
+USER	p1	START	1651679034180
+REQUEST		request_0	1651679034180	1651679034386	OK	 
+USER	p1	START	1651679034533
+REQUEST		request_0	1651679034534	1651679034766	OK	 
+USER	p1	START	1651679034962
+REQUEST		request_0	1651679034962	1651679035195	OK	 
+USER	p1	START	1651679035284
+USER	p1	START	1651679035465
+REQUEST		request_0	1651679035284	1651679035516	OK	 
+REQUEST		request_0	1651679035465	1651679035687	OK	 
+USER	p1	START	1651679036232
+REQUEST		request_0	1651679036232	1651679036620	OK	 
+USER	p1	START	1651679036784
+REQUEST		request_0	1651679036784	1651679036984	OK	 
+USER	p1	START	1651679037566
+REQUEST		request_0	1651679037566	1651679037776	OK	 
+USER	p1	START	1651679037964
+REQUEST		request_0	1651679037964	1651679038162	OK	 
+USER	p1	START	1651679038438
+USER	p1	START	1651679038482
+USER	p1	START	1651679038559
+REQUEST		request_0	1651679038438	1651679038657	OK	 
+REQUEST		request_0	1651679038482	1651679038693	OK	 
+REQUEST		request_0	1651679038560	1651679038779	OK	 
+USER	p1	START	1651679039313
+REQUEST		request_0	1651679039313	1651679039518	OK	 
+USER	p1	START	1651679039602
+REQUEST		request_0	1651679039602	1651679039804	OK	 
+USER	p1	START	1651679040156
+USER	p1	START	1651679040234
+REQUEST		request_0	1651679040156	1651679040372	OK	 
+REQUEST		request_0	1651679040234	1651679040450	OK	 
+USER	p1	START	1651679041012
+USER	p1	START	1651679041103
+REQUEST		request_0	1651679041012	1651679041218	OK	 
+USER	p1	START	1651679041287
+REQUEST		request_0	1651679041103	1651679041296	OK	 
+USER	p1	START	1651679041442
+REQUEST		request_0	1651679041287	1651679041509	OK	 
+REQUEST		request_0	1651679041442	1651679041640	OK	 
+USER	p1	START	1651679041810
+USER	p1	START	1651679041933
+REQUEST		request_0	1651679041810	1651679042057	OK	 
+REQUEST		request_0	1651679041933	1651679042141	OK	 
+USER	p1	START	1651679042463
+USER	p1	START	1651679042630
+REQUEST		request_0	1651679042464	1651679042693	OK	 
+REQUEST		request_0	1651679042630	1651679042865	OK	 
+USER	p1	START	1651679043487
+REQUEST		request_0	1651679043487	1651679043756	OK	 
+USER	p1	START	1651679044249
+REQUEST		request_0	1651679044249	1651679044460	OK	 
+USER	p1	START	1651679044615
+USER	p1	START	1651679044749
+REQUEST		request_0	1651679044615	1651679044823	OK	 
+REQUEST		request_0	1651679044749	1651679044958	OK	 
+REQUEST		request_1	1651679015422	1651679045453	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679015422	1651679045466	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+USER	p1	START	1651679045742
+USER	p1	START	1651679045818
+USER	p1	START	1651679045956
+REQUEST		request_0	1651679045742	1651679045977	OK	 
+REQUEST		request_0	1651679045818	1651679046017	OK	 
+REQUEST		request_0	1651679045956	1651679046179	OK	 
+REQUEST		request_1	1651679016324	1651679046367	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+USER	p1	START	1651679046584
+USER	p1	START	1651679046982
+REQUEST		request_0	1651679046584	1651679047108	OK	 
+REQUEST		request_1	1651679017186	1651679047227	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679017201	1651679047243	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_0	1651679046983	1651679047259	OK	 
+USER	p1	START	1651679047382
+REQUEST		request_1	1651679017461	1651679047489	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_0	1651679047382	1651679047604	OK	 
+USER	p1	START	1651679048073
+REQUEST		request_0	1651679048074	1651679048274	OK	 
+REQUEST		request_1	1651679018319	1651679048333	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679018506	1651679048532	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+USER	p1	START	1651679048609
+REQUEST		request_0	1651679048610	1651679048863	OK	 
+USER	p1	START	1651679048979
+REQUEST		request_0	1651679048979	1651679049188	OK	 
+REQUEST		request_1	1651679019354	1651679049390	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+USER	p1	START	1651679049391
+USER	p1	START	1651679049437
+USER	p1	START	1651679049437
+USER	p1	START	1651679049588
+REQUEST		request_0	1651679049391	1651679049613	OK	 
+REQUEST		request_0	1651679049438	1651679049652	OK	 
+REQUEST		request_0	1651679049438	1651679049652	OK	 
+USER	p1	START	1651679049758
+REQUEST		request_0	1651679049588	1651679049784	OK	 
+REQUEST		request_0	1651679049758	1651679050008	OK	 
+USER	p1	START	1651679050587
+REQUEST		request_0	1651679050587	1651679050790	OK	 
+REQUEST		request_1	1651679021005	1651679051028	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+USER	p1	START	1651679051090
+REQUEST		request_1	1651679021128	1651679051150	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_0	1651679051090	1651679051294	OK	 
+USER	p1	START	1651679051823
+REQUEST		request_1	1651679021818	1651679051852	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_0	1651679051823	1651679052029	OK	 
+USER	p1	START	1651679052205
+REQUEST		request_0	1651679052205	1651679052407	OK	 
+USER	p1	START	1651679052448
+REQUEST		request_0	1651679052448	1651679052678	OK	 
+USER	p1	START	1651679052925
+REQUEST		request_0	1651679052925	1651679053146	OK	 
+USER	p1	START	1651679053538
+REQUEST		request_1	1651679023462	1651679053552	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+USER	p1	START	1651679053814
+REQUEST		request_0	1651679053538	1651679053818	OK	 
+REQUEST		request_0	1651679053814	1651679054023	OK	 
+REQUEST		request_1	1651679024000	1651679054028	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+USER	p1	START	1651679054058
+REQUEST		request_1	1651679024107	1651679054133	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_0	1651679054059	1651679054280	OK	 
+USER	p1	START	1651679054791
+REQUEST		request_0	1651679054791	1651679055014	OK	 
+REQUEST		request_1	1651679025191	1651679055234	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+USER	p1	START	1651679055234
+REQUEST		request_0	1651679055235	1651679055454	OK	 
+REQUEST		request_1	1651679025423	1651679055463	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+USER	p1	START	1651679055493
+USER	p1	START	1651679055692
+REQUEST		request_0	1651679055493	1651679055707	OK	 
+REQUEST		request_0	1651679055693	1651679055914	OK	 
+REQUEST		request_1	1651679027451	1651679057484	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679027590	1651679057623	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679028202	1651679058235	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+USER	p1	START	1651679058772
+USER	p1	START	1651679058804
+REQUEST		request_1	1651679028799	1651679058818	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679028921	1651679058942	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679028937	1651679058957	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_0	1651679058772	1651679058982	OK	 
+REQUEST		request_0	1651679058804	1651679059027	OK	 
+USER	p1	START	1651679059384
+REQUEST		request_0	1651679059384	1651679059606	OK	 
+USER	p1	START	1651679059672
+REQUEST		request_0	1651679059672	1651679059899	OK	 
+USER	p1	START	1651679060175
+REQUEST		request_0	1651679060175	1651679060396	OK	 
+REQUEST		request_1	1651679031007	1651679061028	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679031404	1651679061443	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679031481	1651679061520	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679031557	1651679061580	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+USER	p1	START	1651679061734
+USER	p1	START	1651679061781
+REQUEST		request_0	1651679061734	1651679061932	OK	 
+REQUEST		request_0	1651679061781	1651679062009	OK	 
+USER	p1	START	1651679062133
+REQUEST		request_1	1651679032169	1651679062194	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+USER	p1	START	1651679062254
+REQUEST		request_1	1651679032245	1651679062270	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_0	1651679062133	1651679062352	OK	 
+REQUEST		request_0	1651679062255	1651679062468	OK	 
+REQUEST		request_1	1651679032504	1651679062514	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+USER	p1	START	1651679062760
+REQUEST		request_1	1651679032868	1651679062897	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_0	1651679062760	1651679062983	OK	 
+USER	p1	START	1651679063033
+REQUEST		request_1	1651679033037	1651679063063	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679033128	1651679063155	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_0	1651679063033	1651679063240	OK	 
+USER	p1	START	1651679063597
+USER	p1	START	1651679063673
+USER	p1	START	1651679063704
+REQUEST		request_0	1651679063598	1651679063817	OK	 
+REQUEST		request_0	1651679063674	1651679063890	OK	 
+REQUEST		request_0	1651679063704	1651679063921	OK	 
+USER	p1	START	1651679064478
+USER	p1	START	1651679064540
+USER	p1	START	1651679064540
+REQUEST		request_1	1651679034624	1651679064647	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_0	1651679064478	1651679064697	OK	 
+USER	p1	START	1651679064724
+REQUEST		request_0	1651679064540	1651679064756	OK	 
+REQUEST		request_0	1651679064540	1651679064756	OK	 
+REQUEST		request_0	1651679064725	1651679064918	OK	 
+REQUEST		request_1	1651679035086	1651679065120	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679035147	1651679065182	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679035389	1651679065425	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+USER	p1	START	1651679065487
+USER	p1	START	1651679065687
+REQUEST		request_0	1651679065487	1651679065691	OK	 
+USER	p1	START	1651679065763
+REQUEST		request_1	1651679035774	1651679065808	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_0	1651679065688	1651679065893	OK	 
+REQUEST		request_0	1651679065763	1651679065995	OK	 
+REQUEST		request_1	1651679036202	1651679066240	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+USER	p1	START	1651679066516
+REQUEST		request_1	1651679036524	1651679066561	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+USER	p1	START	1651679066608
+REQUEST		request_0	1651679066516	1651679066707	OK	 
+REQUEST		request_1	1651679036693	1651679066730	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+USER	p1	START	1651679066761
+REQUEST		request_0	1651679066608	1651679066818	OK	 
+REQUEST		request_0	1651679066761	1651679066976	OK	 
+REQUEST		request_1	1651679037626	1651679067663	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+USER	p1	START	1651679067818
+REQUEST		request_1	1651679037994	1651679068015	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_0	1651679067818	1651679068031	OK	 
+REQUEST		request_1	1651679038790	1651679068816	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679039175	1651679069214	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679039663	1651679069704	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679039709	1651679069734	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679039786	1651679069827	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+USER	p1	START	1651679070330
+REQUEST		request_0	1651679070330	1651679070555	OK	 
+REQUEST		request_1	1651679040523	1651679070575	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679040814	1651679070836	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+USER	p1	START	1651679070928
+REQUEST		request_0	1651679070928	1651679071156	OK	 
+REQUEST		request_1	1651679041380	1651679071416	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679041458	1651679071492	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+USER	p1	START	1651679072166
+USER	p1	START	1651679072197
+REQUEST		request_1	1651679042235	1651679072257	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679042311	1651679072348	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_0	1651679072166	1651679072392	OK	 
+REQUEST		request_0	1651679072197	1651679072424	OK	 
+REQUEST		request_1	1651679042524	1651679072533	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679042646	1651679072656	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679043062	1651679073083	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679043152	1651679073175	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679043701	1651679073733	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679043868	1651679073900	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679044765	1651679074790	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679045466	1651679075493	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679045833	1651679075860	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679045971	1651679075998	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679046982	1651679077013	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679047028	1651679077059	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679047181	1651679077212	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679048119	1651679078145	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679048272	1651679078299	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679048609	1651679078636	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679049284	1651679079316	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679049865	1651679079901	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679050203	1651679080237	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679050617	1651679080650	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679050662	1651679080698	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679050662	1651679080698	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679050800	1651679080835	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679051014	1651679081048	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679051793	1651679081812	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679052297	1651679082330	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679053034	1651679083067	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679053416	1651679083451	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679053690	1651679083729	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679054149	1651679084187	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679054821	1651679084842	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679055036	1651679085056	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679055295	1651679085318	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679056030	1651679086053	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679056459	1651679086482	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679056720	1651679086744	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679056918	1651679086944	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679059994	1651679090030	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679060039	1651679090075	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679060618	1651679090640	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679060907	1651679090929	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679061412	1651679091438	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679062942	1651679092974	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679063018	1651679093050	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679063353	1651679093385	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679063476	1651679093509	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679063993	1651679094024	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679064250	1651679094269	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679064830	1651679094851	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679064906	1651679094926	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679064937	1651679094956	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679065702	1651679095724	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679065762	1651679095785	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679065762	1651679095785	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679065932	1651679095954	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679066700	1651679096720	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679066900	1651679096918	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679067005	1651679097023	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_1	1651679067710	1651679097742	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679067833	1651679097867	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679067986	1651679098003	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679069046	1651679099077	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679071570	1651679101604	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_1	1651679072165	1651679102188	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679073407	1651679103445	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_1	1651679073437	1651679103476	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679093477	1651679123539	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679093461	1651679123539	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679094376	1651679124408	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679095233	1651679125263	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679095248	1651679125278	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679095496	1651679125526	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679096338	1651679126369	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679096537	1651679126568	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679097404	1651679127427	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679099031	1651679129073	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679099155	1651679129181	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679099858	1651679129902	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679101558	1651679131592	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679102036	1651679132066	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679102143	1651679132172	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679103245	1651679133278	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679103477	1651679133507	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679105490	1651679135515	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679105628	1651679135652	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679106240	1651679136265	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679106824	1651679136847	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679106948	1651679136969	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679106963	1651679136985	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679109041	1651679139083	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679109456	1651679139483	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679109533	1651679139560	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679109596	1651679139620	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_3	1651679139545	1651679139764	OK	 
+USER	p1	END	1651679139767
+REQUEST		request_3	1651679139545	1651679139796	OK	 
+USER	p1	END	1651679139797
+REQUEST		request_2	1651679110208	1651679140230	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679110285	1651679140306	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679110528	1651679140551	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679140414	1651679140623	OK	 
+USER	p1	END	1651679140624
+REQUEST		request_2	1651679110911	1651679140932	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679111065	1651679141085	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679111157	1651679141192	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679141268	1651679141495	OK	 
+USER	p1	END	1651679141496
+REQUEST		request_3	1651679141284	1651679141504	OK	 
+USER	p1	END	1651679141504
+REQUEST		request_3	1651679141530	1651679141750	OK	 
+USER	p1	END	1651679141751
+REQUEST		request_3	1651679142373	1651679142595	OK	 
+USER	p1	END	1651679142596
+REQUEST		request_2	1651679112661	1651679142695	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_3	1651679142573	1651679142802	OK	 
+USER	p1	END	1651679142803
+REQUEST		request_2	1651679113122	1651679143158	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679113183	1651679143205	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679113429	1651679143450	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679143435	1651679143653	OK	 
+USER	p1	END	1651679143654
+REQUEST		request_2	1651679113812	1651679143847	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679114243	1651679144263	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679114565	1651679144585	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679114732	1651679144755	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679145090	1651679145293	OK	 
+USER	p1	END	1651679145294
+REQUEST		request_3	1651679145183	1651679145387	OK	 
+USER	p1	END	1651679145388
+REQUEST		request_2	1651679115672	1651679145691	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679116022	1651679146040	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679145904	1651679146113	OK	 
+USER	p1	END	1651679146114
+REQUEST		request_2	1651679116819	1651679146838	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679117215	1651679147234	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679117707	1651679147740	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679117739	1651679147769	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679147602	1651679147806	OK	 
+USER	p1	END	1651679147807
+REQUEST		request_2	1651679117832	1651679147862	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_3	1651679148076	1651679148276	OK	 
+USER	p1	END	1651679148277
+REQUEST		request_3	1651679148182	1651679148401	OK	 
+USER	p1	END	1651679148402
+REQUEST		request_2	1651679118582	1651679148611	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679118842	1651679148877	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679119425	1651679149444	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679119501	1651679149520	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679149290	1651679149523	OK	 
+USER	p1	END	1651679149524
+REQUEST		request_3	1651679149520	1651679149740	OK	 
+USER	p1	END	1651679149741
+REQUEST		request_2	1651679120266	1651679150288	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679120358	1651679150380	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679120541	1651679150565	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679120661	1651679150689	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679121091	1651679151131	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679121182	1651679151223	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679151530	1651679151744	OK	 
+USER	p1	END	1651679151745
+REQUEST		request_2	1651679121749	1651679151789	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_3	1651679151653	1651679151864	OK	 
+USER	p1	END	1651679151865
+REQUEST		request_2	1651679121903	1651679151942	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_3	1651679152281	1651679152511	OK	 
+USER	p1	END	1651679152512
+REQUEST		request_2	1651679122791	1651679152819	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_3	1651679152850	1651679153072	OK	 
+USER	p1	END	1651679153073
+REQUEST		request_3	1651679152974	1651679153221	OK	 
+REQUEST		request_3	1651679152989	1651679153229	OK	 
+USER	p1	END	1651679153230
+USER	p1	END	1651679153230
+REQUEST		request_2	1651679123509	1651679153540	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679123873	1651679153955	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679124011	1651679154031	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679125017	1651679155045	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679125063	1651679155106	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679125218	1651679155243	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_3	1651679155092	1651679155381	OK	 
+USER	p1	END	1651679155382
+REQUEST		request_3	1651679155489	1651679155721	OK	 
+USER	p1	END	1651679155722
+REQUEST		request_3	1651679155566	1651679155805	OK	 
+USER	p1	END	1651679155805
+REQUEST		request_3	1651679155626	1651679155884	OK	 
+USER	p1	END	1651679155884
+REQUEST		request_2	1651679126155	1651679156177	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679126308	1651679156332	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_3	1651679156239	1651679156470	OK	 
+USER	p1	END	1651679156470
+REQUEST		request_3	1651679156317	1651679156548	OK	 
+USER	p1	END	1651679156548
+REQUEST		request_2	1651679126645	1651679156668	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_3	1651679156561	1651679156802	OK	 
+USER	p1	END	1651679156803
+REQUEST		request_3	1651679156945	1651679157203	OK	 
+USER	p1	END	1651679157203
+REQUEST		request_3	1651679157099	1651679157342	OK	 
+USER	p1	END	1651679157343
+REQUEST		request_2	1651679127320	1651679157358	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679157206	1651679157430	OK	 
+USER	p1	END	1651679157431
+REQUEST		request_2	1651679127904	1651679157926	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679128241	1651679158263	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679128659	1651679158679	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679128705	1651679158724	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679128705	1651679158724	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679128843	1651679158878	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_3	1651679158709	1651679158916	OK	 
+USER	p1	END	1651679158917
+REQUEST		request_2	1651679129058	1651679159092	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_3	1651679159169	1651679159388	OK	 
+USER	p1	END	1651679159389
+REQUEST		request_3	1651679159214	1651679159422	OK	 
+USER	p1	END	1651679159423
+REQUEST		request_3	1651679159461	1651679159663	OK	 
+USER	p1	END	1651679159664
+REQUEST		request_2	1651679129827	1651679159846	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_3	1651679159862	1651679160089	OK	 
+USER	p1	END	1651679160090
+REQUEST		request_2	1651679130332	1651679160352	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679160274	1651679160486	OK	 
+USER	p1	END	1651679160487
+REQUEST		request_3	1651679160597	1651679160821	OK	 
+USER	p1	END	1651679160822
+REQUEST		request_3	1651679160765	1651679160979	OK	 
+USER	p1	END	1651679160980
+REQUEST		request_2	1651679131069	1651679161114	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679131453	1651679161496	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679131730	1651679161772	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_3	1651679161695	1651679161917	OK	 
+USER	p1	END	1651679161917
+REQUEST		request_2	1651679132202	1651679162233	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_3	1651679162049	1651679162253	OK	 
+USER	p1	END	1651679162254
+REQUEST		request_2	1651679132847	1651679162862	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679133063	1651679163092	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679162847	1651679163323	OK	 
+USER	p1	END	1651679163324
+REQUEST		request_2	1651679133324	1651679163352	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_3	1651679163245	1651679163729	OK	 
+USER	p1	END	1651679163730
+REQUEST		request_3	1651679163751	1651679163962	OK	 
+USER	p1	END	1651679163963
+REQUEST		request_3	1651679163781	1651679163994	OK	 
+USER	p1	END	1651679163995
+REQUEST		request_3	1651679163873	1651679164072	OK	 
+USER	p1	END	1651679164073
+REQUEST		request_2	1651679134062	1651679164104	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679134491	1651679164517	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679134752	1651679164777	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_3	1651679164625	1651679164866	OK	 
+USER	p1	END	1651679164866
+REQUEST		request_2	1651679134949	1651679164977	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_3	1651679164884	1651679165092	OK	 
+USER	p1	END	1651679165093
+REQUEST		request_3	1651679165451	1651679165652	OK	 
+USER	p1	END	1651679165653
+REQUEST		request_3	1651679165528	1651679165750	OK	 
+USER	p1	END	1651679165751
+REQUEST		request_3	1651679166291	1651679166503	OK	 
+USER	p1	END	1651679166504
+REQUEST		request_3	1651679166384	1651679166592	OK	 
+USER	p1	END	1651679166593
+REQUEST		request_3	1651679166568	1651679166793	OK	 
+USER	p1	END	1651679166795
+REQUEST		request_3	1651679166703	1651679166905	OK	 
+USER	p1	END	1651679166906
+REQUEST		request_3	1651679167133	1651679167347	OK	 
+USER	p1	END	1651679167348
+REQUEST		request_3	1651679167226	1651679167450	OK	 
+USER	p1	END	1651679167451
+REQUEST		request_3	1651679167792	1651679168018	OK	 
+USER	p1	END	1651679168019
+REQUEST		request_2	1651679138041	1651679168049	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679138087	1651679168099	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_3	1651679167948	1651679168167	OK	 
+USER	p1	END	1651679168168
+REQUEST		request_2	1651679138653	1651679168667	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679138930	1651679168960	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_3	1651679168821	1651679169033	OK	 
+USER	p1	END	1651679169034
+REQUEST		request_2	1651679139453	1651679169483	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_3	1651679169543	1651679169750	OK	 
+USER	p1	END	1651679169750
+REQUEST		request_3	1651679169967	1651679170186	OK	 
+USER	p1	END	1651679170187
+REQUEST		request_2	1651679140979	1651679171022	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679141054	1651679171099	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679171053	1651679171266	OK	 
+USER	p1	END	1651679171267
+REQUEST		request_3	1651679171115	1651679171314	OK	 
+USER	p1	END	1651679171315
+REQUEST		request_3	1651679170044	1651679171405	OK	 
+USER	p1	END	1651679171406
+REQUEST		request_2	1651679141391	1651679171434	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_3	1651679171252	1651679171468	OK	 
+USER	p1	END	1651679171469
+REQUEST		request_2	1651679141514	1651679171558	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679142037	1651679172081	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679142282	1651679172325	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679172188	1651679172392	OK	 
+USER	p1	END	1651679172393
+REQUEST		request_3	1651679172340	1651679172545	OK	 
+USER	p1	END	1651679172546
+REQUEST		request_2	1651679142864	1651679172908	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679142941	1651679172984	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679142971	1651679172999	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_3	1651679172676	1651679173098	OK	 
+USER	p1	END	1651679173099
+REQUEST		request_3	1651679173365	1651679173590	OK	 
+USER	p1	END	1651679173624
+REQUEST		request_2	1651679143725	1651679173765	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679143787	1651679173827	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679143787	1651679173827	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_2	1651679143955	1651679173995	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679173934	1651679174122	OK	 
+USER	p1	END	1651679174123
+REQUEST		request_3	1651679174272	1651679174468	OK	 
+USER	p1	END	1651679174469
+REQUEST		request_2	1651679144724	1651679174761	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_3	1651679174683	1651679174905	OK	 
+USER	p1	END	1651679174905
+REQUEST		request_3	1651679174730	1651679174941	OK	 
+REQUEST		request_3	1651679174730	1651679174941	OK	 
+USER	p1	END	1651679174942
+USER	p1	END	1651679174942
+REQUEST		request_2	1651679144923	1651679174962	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679145029	1651679175069	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.78.134.111:5000
+REQUEST		request_3	1651679174884	1651679175093	OK	 
+USER	p1	END	1651679175094
+REQUEST		request_3	1651679175100	1651679175310	OK	 
+USER	p1	END	1651679175311
+REQUEST		request_2	1651679145752	1651679175774	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679145873	1651679175898	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679146011	1651679176035	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679175852	1651679176077	OK	 
+USER	p1	END	1651679176078
+REQUEST		request_3	1651679176354	1651679176555	OK	 
+USER	p1	END	1651679176556
+REQUEST		request_2	1651679147083	1651679177107	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679177123	1651679177354	OK	 
+USER	p1	END	1651679177355
+REQUEST		request_3	1651679177507	1651679177716	OK	 
+USER	p1	END	1651679177717
+REQUEST		request_3	1651679177784	1651679178007	OK	 
+USER	p1	END	1651679178008
+REQUEST		request_3	1651679178244	1651679178486	OK	 
+USER	p1	END	1651679178486
+REQUEST		request_3	1651679178877	1651679179137	OK	 
+USER	p1	END	1651679179138
+REQUEST		request_3	1651679179107	1651679179342	OK	 
+USER	p1	END	1651679179342
+REQUEST		request_3	1651679179364	1651679179586	OK	 
+USER	p1	END	1651679179587
+REQUEST		request_2	1651679149615	1651679179637	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_2	1651679150197	1651679180235	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_3	1651679180114	1651679180331	OK	 
+USER	p1	END	1651679180332
+REQUEST		request_3	1651679180527	1651679180757	OK	 
+USER	p1	END	1651679180758
+REQUEST		request_3	1651679180786	1651679181008	OK	 
+USER	p1	END	1651679181009
+REQUEST		request_2	1651679151453	1651679181487	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/34.241.115.67:5000
+REQUEST		request_2	1651679151484	1651679181518	KO	i.n.c.ConnectTimeoutException: connection timed out: dede-es5a.herokuapp.com/54.228.42.199:5000
+REQUEST		request_3	1651679180986	1651679181535	OK	 
+USER	p1	END	1651679181536
+REQUEST		request_3	1651679184065	1651679184269	OK	 
+USER	p1	END	1651679184270
+REQUEST		request_3	1651679184111	1651679184316	OK	 
+USER	p1	END	1651679184317
+REQUEST		request_3	1651679184678	1651679184890	OK	 
+USER	p1	END	1651679184891
+REQUEST		request_3	1651679184966	1651679185179	OK	 
+USER	p1	END	1651679185180
+REQUEST		request_3	1651679185490	1651679185743	OK	 
+USER	p1	END	1651679185744
+REQUEST		request_3	1651679187036	1651679187238	OK	 
+USER	p1	END	1651679187238
+REQUEST		request_3	1651679187112	1651679187328	OK	 
+USER	p1	END	1651679187329
+REQUEST		request_3	1651679187450	1651679187652	OK	 
+USER	p1	END	1651679187652
+REQUEST		request_3	1651679187573	1651679187789	OK	 
+USER	p1	END	1651679187790
+REQUEST		request_3	1651679188082	1651679188300	OK	 
+USER	p1	END	1651679188301
+REQUEST		request_3	1651679188327	1651679188517	OK	 
+USER	p1	END	1651679188518
+REQUEST		request_3	1651679188910	1651679189133	OK	 
+USER	p1	END	1651679189134
+REQUEST		request_3	1651679188986	1651679189215	OK	 
+USER	p1	END	1651679189216
+REQUEST		request_3	1651679189001	1651679189228	OK	 
+USER	p1	END	1651679189228
+REQUEST		request_3	1651679189766	1651679189991	OK	 
+USER	p1	END	1651679189992
+REQUEST		request_3	1651679189828	1651679190035	OK	 
+USER	p1	END	1651679190036
+REQUEST		request_3	1651679189844	1651679190073	OK	 
+USER	p1	END	1651679190074
+REQUEST		request_3	1651679189997	1651679190196	OK	 
+USER	p1	END	1651679190196
+REQUEST		request_3	1651679190775	1651679191004	OK	 
+USER	p1	END	1651679191005
+REQUEST		request_3	1651679190976	1651679191184	OK	 
+USER	p1	END	1651679191184
+REQUEST		request_3	1651679191083	1651679191285	OK	 
+USER	p1	END	1651679191285
+REQUEST		request_3	1651679191777	1651679192021	OK	 
+USER	p1	END	1651679192021
+REQUEST		request_3	1651679191899	1651679192090	OK	 
+USER	p1	END	1651679192091
+REQUEST		request_3	1651679192037	1651679192256	OK	 
+USER	p1	END	1651679192257
+REQUEST		request_3	1651679193112	1651679193320	OK	 
+USER	p1	END	1651679193321
+REQUEST		request_3	1651679195653	1651679195860	OK	 
+USER	p1	END	1651679195860
+REQUEST		request_3	1651679196235	1651679196453	OK	 
+USER	p1	END	1651679196454
+REQUEST		request_3	1651679197496	1651679197703	OK	 
+USER	p1	END	1651679197703
+REQUEST		request_3	1651679197527	1651679197733	OK	 
+USER	p1	END	1651679197734
